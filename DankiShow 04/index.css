@@ -1,0 +1,14 @@
+.cursos {
+    display: inline-flex;
+    align-items: flex-start;
+}
+
+.cursos img {
+    width: 550px;
+    padding-right: 10px;
+    height: auto;
+} 
+
+.cfn{
+    display:flex;
+}

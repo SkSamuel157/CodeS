@@ -1,0 +1,34 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+p {
+    color: #1f2586;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+a {
+    color: chartreuse;
+    background-color: blueviolet;
+    text-decoration: none;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 3px 6px;
+    border-radius: 5px;
+}
+
+img {
+    width: 550px;
+    height: auto;
+}
+div {
+    text-align: center;
+}
+.Texto-Principal {
+    color: #322756;
+}
+#Logo {
+    color: #800dc2;
+}
